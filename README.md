@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 ![marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-bocci&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-bocci&layout=compact)](https://github.com/marcelo-bocci/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
