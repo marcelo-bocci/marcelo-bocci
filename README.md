@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-franco-17a21a1b9)
 
 ![marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-bocci&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-bocci&layout=compact)](https://github.com/marcelo-bocci/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
